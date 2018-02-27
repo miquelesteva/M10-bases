@@ -1,0 +1,7 @@
+Ahora está conectado a la base de datos «lab_clinic» con el usuario «postgres».
+COPY 3
+               select_resultat                
+----------------------------------------------
+ 2018-02-06 19:38:39.068312 - error amb 5-5-1
+(1 fila)
+
